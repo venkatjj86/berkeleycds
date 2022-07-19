@@ -8,7 +8,7 @@
   <name>Demo Maven Webapp</name>
   <url>https://github.com/venkatjj86/devopstest/tree/main/demo-java-master</url>
   <build>
-    <finalName>NCSDevopsDemo</finalName>
+    <finalName>BERKELEYDevopsDemo</finalName>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
       <plugin>
