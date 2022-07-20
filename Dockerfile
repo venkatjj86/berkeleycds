@@ -1,6 +1,6 @@
 FROM tomcat:8.0
 
-ADD ./target/*.war /usr/local/tomcat/webapps/
+ADD /var/lib/jenkins/workspace/Berkeley_CDS_Demo/target/*.war /usr/local/tomcat/webapps/
 
 EXPOSE 8080
 
