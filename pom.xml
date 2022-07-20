@@ -6,7 +6,7 @@
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
       <build>
-    <finalName>berkeleycdsdemo</finalName>
+    <finalName>berkeleycdsdevopsdemo</finalName>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
       <plugin>
